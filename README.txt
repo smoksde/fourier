@@ -5,6 +5,7 @@ You should install CMake to be able to build and compile.
 
 Compiling:
     1. Open the console
+    2. Create a build directory inside the root repository directory
     2. Navigate to the build directory
     3. Type "cmake .."
     4. Type "make"
